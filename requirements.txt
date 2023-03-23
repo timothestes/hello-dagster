@@ -1,0 +1,7 @@
+pandas
+black
+dagster
+dagit
+dagster-cloud
+matplotlib
+wordcloud
